@@ -3,7 +3,6 @@ import './css/style.css'
 import { Inter, Architects_Daughter } from 'next/font/google'
 
 import Header from '@/components/ui/header'
-import Banner from '@/components/banner'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -30,14 +29,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased bg-gray-900 text-gray-200 tracking-tight`}>
+    <head>
+      <link rel="icon" href="https://res.cloudinary.com/ddonlrenm/image/upload/v1683748996/PinClipart.com_physics-clipart_3823022_erwsmh.png" />
+    </head>
+
+    <body className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 text-gray-200 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
           <Header />
           {children}
-          <Banner />
         </div>
       </body>
     </html>
   )
 }
- 
