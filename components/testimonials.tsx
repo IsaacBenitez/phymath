@@ -32,10 +32,10 @@ export default function Testimonials() {
                   <input type="hidden" name="public-key" value="pub_test_r4FxBGiKNxZPvSvQCXra6ehgei0wKhW2" />
                   <input type="hidden" name="currency" value="COP" />
                   <input type="hidden" name="amount-in-cents" value="5000000" />
-                  <input type="hidden" name="reference" value="3b4393bafed398ba9" />
+                  <input type="hidden" name="reference" value="3b4393bafed398bb3" />
 
-                  <input type="hidden" name="signature:integrity" value="187e7d36f4ad1a2e55efea2c97fe44670b1a7f39a1128abd693f0acb2971011e"/>
-                  <input type="hidden" name="redirect-url" value="http://localhost:3000/" />
+                  <input type="hidden" name="signature:integrity" value="45b5917495950188b4c329facf9cdb3c088829e06cc3acda95169dc3729a7fcb"/>
+                  <input type="hidden" name="redirect-url" value="https://phymath.vercel.app/" />
                   <input type="hidden" name="tax-in-cents:vat" value="0" />
                   <input type="hidden" name="tax-in-cents:consumption" value="0" />
                   <input type="hidden" name="customer-data:email" value="benitezisaac421@gmail.com" />
@@ -69,10 +69,10 @@ export default function Testimonials() {
                   <input type="hidden" name="public-key" value="pub_test_r4FxBGiKNxZPvSvQCXra6ehgei0wKhW2" />
                   <input type="hidden" name="currency" value="COP" />
                   <input type="hidden" name="amount-in-cents" value="8000000" />
-                  <input type="hidden" name="reference" value="3b4393bafed398ba6" />
+                  <input type="hidden" name="reference" value="3b4393bafed398bb1" />
 
-                  <input type="hidden" name="signature:integrity" value="2348aa41882618768367589f2acdf12e647819062cdd2231ed911c46e0112e8c"/>
-                  <input type="hidden" name="redirect-url" value="http://localhost:3000/" />
+                  <input type="hidden" name="signature:integrity" value="d46eaeac65e10db7ee93766ff6e1ef117194e0f6ddd629db72cfdddc81240fcb"/>
+                  <input type="hidden" name="redirect-url" value="https://phymath.vercel.app/" />
                   <input type="hidden" name="tax-in-cents:vat" value="0" />
                   <input type="hidden" name="tax-in-cents:consumption" value="0" />
                   <input type="hidden" name="customer-data:email" value="benitezisaac421@gmail.com" />
@@ -106,10 +106,10 @@ export default function Testimonials() {
                   <input type="hidden" name="public-key" value="pub_test_r4FxBGiKNxZPvSvQCXra6ehgei0wKhW2" />
                   <input type="hidden" name="currency" value="COP" />
                   <input type="hidden" name="amount-in-cents" value="4000000" />
-                  <input type="hidden" name="reference" value="3b4393bafed398ba5" />
+                  <input type="hidden" name="reference" value="3b4393bafed398bb2" />
 
-                  <input type="hidden" name="signature:integrity" value="016b3c4e3741303be2021709588d1de453c459a2b2afe810f17d543ddaae1334"/>
-                  <input type="hidden" name="redirect-url" value="http://localhost:3000/" />
+                  <input type="hidden" name="signature:integrity" value="d72c691c87ea0bcaccb416fbf1c2e3d7493b7acb33517d7c8b2ab2be303270c1"/>
+                  <input type="hidden" name="redirect-url" value="https://phymath.vercel.app/" />
                   <input type="hidden" name="tax-in-cents:vat" value="0" />
                   <input type="hidden" name="tax-in-cents:consumption" value="0" />
                   <input type="hidden" name="customer-data:email" value="benitezisaac421@gmail.com" />
