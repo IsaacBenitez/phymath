@@ -32,9 +32,9 @@ export default function Testimonials() {
                   <input type="hidden" name="public-key" value="pub_test_r4FxBGiKNxZPvSvQCXra6ehgei0wKhW2" />
                   <input type="hidden" name="currency" value="COP" />
                   <input type="hidden" name="amount-in-cents" value="5000000" />
-                  <input type="hidden" name="reference" value="3b4393bafed398bb3" />
+                  <input type="hidden" name="reference" value="3b4393bafed398bb4" />
 
-                  <input type="hidden" name="signature:integrity" value="45b5917495950188b4c329facf9cdb3c088829e06cc3acda95169dc3729a7fcb"/>
+                  <input type="hidden" name="signature:integrity" value="30645c6f231556317a75177a679826cd0af4f2e36304de6917db347c84928087"/>
                   <input type="hidden" name="redirect-url" value="https://phymath.vercel.app/" />
                   <input type="hidden" name="tax-in-cents:vat" value="0" />
                   <input type="hidden" name="tax-in-cents:consumption" value="0" />
